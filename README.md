@@ -1,5 +1,5 @@
-# Handwriting_Recognition
+# Handwriting_Signature_Authentication
 
-Handwriting and Signature Authentication without using ML model
+Handwriting and Signature Authentication 
 platform - Python 3.6
 
